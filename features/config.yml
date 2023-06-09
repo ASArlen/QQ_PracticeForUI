@@ -1,0 +1,7 @@
+environment: test1
+test1:
+  url: https://leetcode.cn/problemset/all/
+test2:
+  url: https://www.taobao.com
+test3:
+  url: https://login.taobao.com
